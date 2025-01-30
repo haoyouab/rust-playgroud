@@ -5,4 +5,5 @@ resolver = "2"
 members = [
 	"declarative_macro_example",
 	"proc_macro_example",
+	"from_into_trait",
 ]

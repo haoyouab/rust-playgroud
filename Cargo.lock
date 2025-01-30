@@ -7,6 +7,10 @@ name = "declarative_macro_example"
 version = "0.1.0"
 
 [[package]]
+name = "from_into_trait"
+version = "0.1.0"
+
+[[package]]
 name = "hello_macro"
 version = "0.1.0"
 dependencies = [
