@@ -15,6 +15,10 @@ name = "from_into_trait"
 version = "0.1.0"
 
 [[package]]
+name = "function_example"
+version = "0.1.0"
+
+[[package]]
 name = "hello_macro"
 version = "0.1.0"
 dependencies = [
