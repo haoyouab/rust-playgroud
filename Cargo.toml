@@ -8,4 +8,5 @@ members = [
 	"from_into_trait",
 	"control_flow",
 	"function_example",
+	"cfg_condition",
 ]
